@@ -2,7 +2,8 @@
 
 int main(void)
 {
-	printf("Ola mundo\n");
+	printf("Ola mundo da programacao! Sou o Cristian!\n");
 	
+	printf("Esta eh outra linha!\n");
 	return 0;
 }
