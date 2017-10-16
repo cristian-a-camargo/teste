@@ -14,6 +14,8 @@ enum {
   LCD_PIN_MAX
 };
 
+esta eh uma nova linha no codigo
+
 #define LCD_CMD_CLEAR				0x01
 #define LCD_CMD_HOME				0x02
 #define LCD_CMD_ENTRYMODE			0x04
