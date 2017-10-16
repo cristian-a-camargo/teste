@@ -25,6 +25,8 @@ esta eh uma nova linha no codigo
 #define LCD_CMD_SETCGRAM			0x40
 #define LCD_CMD_SETDDRAM			0x80
 
+esta [e outra linha nova]
+
 #define LCD_DRAM_LINE1			0x00
 #define LCD_DRAM_LINE2			0x40
 
